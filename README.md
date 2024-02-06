@@ -1,3 +1,3 @@
 # tipcalc
 
-An app that knows how to calculate the tip on a dinner at a nice restaurant.
+An app that knows how to calculate tip
